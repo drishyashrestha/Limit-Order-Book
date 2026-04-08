@@ -1,6 +1,6 @@
 # Limit Order Book Engine
 
-[![CI](https://github.com/<YOUR-USERNAME>/<YOUR-REPO>/actions/workflows/ci.yml/badge.svg)](https://github.com/<YOUR-USERNAME>/<YOUR-REPO>/actions)
+[![CI](https://github.com/drishyashrestha/Limit-Order-Book/actions/workflows/ci.yml/badge.svg)](https://github.com/drishyashrestha/Limit-Order-Book/actions)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
