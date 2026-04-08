@@ -1,0 +1,18 @@
+# ── Build artifacts ───────────────────────────
+lob
+lob.exe
+bench_runner
+bench_runner.exe
+test_runner
+test_runner.exe
+*.o
+*.out
+build/
+
+# ── IDE / OS ──────────────────────────────────
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+
